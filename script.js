@@ -14,9 +14,9 @@ document.getElementById('contatoForm').addEventListener('submit', function(event
 });
 
 document.getElementById('whatsappBtn').addEventListener('click', function() {
-    window.open('https://wa.me/11959870300', '_blank'); 
+    window.open('https://wa.me/119******', '_blank'); 
 });
 
 //document.getElementById('instagramBtn').addEventListener('click', function() {
-    //window.open('https://www.instagram.com/b_vitoria98', '_blank'); 
+    //window.open('https://www.instagram.com/*****', '_blank'); 
 //});
